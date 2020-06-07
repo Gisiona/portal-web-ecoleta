@@ -5,6 +5,18 @@
 # portal-web-ecoleta
 Projeto desenvolvido durante a Next Level Week da Rocketseat utilizando TypeScript, NodeJS, ReactJS e React Native. Com objetivo de criar uma conexão entre empresas e/ou entidades que coletam resíduos (orgânicos e inorgânicos) a pessoas/empresas que necessitam descartar esses resíduos.
 
+# Libs utilizadas
+- react-icons
+- react-router-dom
+- react-leaflet
+- leaflet
+- axios
+
+# Types
+npm install @types/react-router-dom
+npm install @types/leaflet
+npm install @types/react-leaflet
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
